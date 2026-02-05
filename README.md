@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ariman</h1>
+<h1 align="center">Hi 👋, I'm Yatendra Pratap Singh </h1>
 <h3 align="center">B.Tech Computer Science Student</h3>
 
 <p align="center">
   🌱 Learning Programming & Software Development <br/>
-  📍 India
+  📍 Mathura , Uttra Pradesh,India
 </p>
 
 ---
